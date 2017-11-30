@@ -24,7 +24,7 @@ var player2_score = 0;
 
 // Set the score that wins
 var winning_score = 11;
-var reset_game = false;
+var reset_game = true;
 
 window.onload = function ()  {
 		// Wait for the page to finish loading
